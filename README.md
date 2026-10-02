@@ -1,35 +1,117 @@
-# SQL Mini Projects
+# 📊 SQL Mini Projects
 
-A collection of SQL mini-projects developed while learning
-MySQL and Data Analytics.
+A collection of SQL mini projects created while learning and practicing
+MySQL, database design, SQL queries, and data analysis concepts.
+
+These projects cover SQL fundamentals through more practical query-based
+analysis, with a focus on building a strong foundation for Data Analytics.
+
+---
 
 ## Projects
 
 ### 1. SQL Foundations
-Fundamentals of SQL including database creation,
-table operations, data manipulation, filtering,
-sorting, and basic queries.
 
-### 2. SQL Mini Project 2
-Practical SQL queries and database analysis.
+**Folder:** `Project-1-SQL-Foundations`
+
+Covers the fundamentals of working with databases and SQL.
+
+**Concepts practiced:**
+- Database creation
+- Table creation
+- DDL & DML
+- INSERT, UPDATE & DELETE
+- SELECT queries
+- Filtering and sorting
+- Basic database operations
+
+---
+
+### 2. SQL Project 2
+
+**Folder:** `Project-2`
+
+A practical SQL project focused on applying SQL concepts to structured
+data and solving query-based problems.
+
+**Concepts practiced:**
+- Data retrieval
+- Filtering
+- Sorting
+- Aggregate functions
+- Grouping
+- SQL conditions
+
+---
 
 ### 3. Joins Analysis
-Working with SQL joins and combining data from
-multiple related tables.
 
-### 4. SQL Mini Project 5
-Additional SQL querying and analytical practice.
+**Folder:** `Project-4-Joins-Analysis`
 
-## Tools & Technologies
+A SQL analysis project focused on combining information from multiple
+related tables.
 
-- MySQL
-- MySQL Workbench
-- SQL
-- Git
-- GitHub
+**Concepts practiced:**
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- Multiple-table queries
+- Table relationships
+- Aggregation with JOINs
+- Analytical SQL queries
 
-## Purpose
+---
 
-These projects demonstrate my learning progress in SQL
-and my ability to work with relational databases and
-perform data analysis using SQL.
+### 4. SQL Project 5
+
+**Folder:** `Project-5`
+
+A practical SQL project used to strengthen query-writing and analytical
+thinking.
+
+**Concepts practiced:**
+- SQL querying
+- Filtering and conditions
+- Aggregations
+- Grouping
+- Data analysis
+- Combining multiple SQL concepts
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **MySQL**
+- **MySQL Workbench**
+- **SQL**
+- **Git & GitHub**
+
+---
+
+## Skills Practiced
+
+Throughout these projects, I have practiced:
+
+- Database creation and management
+- Relational database concepts
+- SQL query writing
+- Data filtering and sorting
+- Aggregate functions
+- GROUP BY and HAVING
+- JOINs
+- Analytical thinking
+- Working with structured data
+
+---
+
+## Repository Structure
+
+```text
+SQL-MINI-PROJECTS/
+│
+├── Project-1-SQL-Foundations/
+├── Project-2/
+├── Project-4-Joins-Analysis/
+├── Project-5/
+│
+└── README.md
