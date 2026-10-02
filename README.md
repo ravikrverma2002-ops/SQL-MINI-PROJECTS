@@ -79,7 +79,7 @@ thinking.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **MySQL**
 - **MySQL Workbench**
