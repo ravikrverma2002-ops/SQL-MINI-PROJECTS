@@ -27,9 +27,9 @@ Covers the fundamentals of working with databases and SQL.
 
 ---
 
-### 2. SQL Project 2
+### 2. Classic-Models
 
-**Folder:** `Project-2`
+**Folder:** `Project-2-Classic-Models`
 
 A practical SQL project focused on applying SQL concepts to structured
 data and solving query-based problems.
@@ -62,9 +62,9 @@ related tables.
 
 ---
 
-### 4. SQL Project 5
+### 4. Advanced SQL Windows Function
 
-**Folder:** `Project-5`
+**Folder:** `Project-5-Advanced-SQL-Window-Functions`
 
 A practical SQL project used to strengthen query-writing and analytical
 thinking.
@@ -110,8 +110,8 @@ Throughout these projects, I have practiced:
 SQL-MINI-PROJECTS/
 │
 ├── Project-1-SQL-Foundations/
-├── Project-2/
+├── Project-2-Classic-Models/
 ├── Project-4-Joins-Analysis/
-├── Project-5/
+├── Project-5-Advanced-SQL-Window-Functions/
 │
 └── README.md
